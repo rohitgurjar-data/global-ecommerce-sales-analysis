@@ -94,7 +94,7 @@ Business questions answered using SQL Server include:
 
 ## Dashboard Preview
 
-![Dashboard](Images/Dashboard.png)
+![Dashboard](Images/Dashboard Image.png)
 
 ---
 
@@ -208,7 +208,7 @@ Global-Ecommerce-Sales-Analysis
 
 # 📷 Dashboard Screenshot
 
-![Dashboard](Images/Dashboard.png)
+![Dashboard](Images/Dashboard image.png)
 
 ---
 
